@@ -3,7 +3,10 @@
     width: 90vw;
     margin: auto;
 }
-
+/* .active {
+  border-bottom:2px solid rgb(236, 70, 78);
+  padding:8px;
+} */
 .HotAccessories > div:first-child > img{
     cursor: pointer;
     transition: all 0.5s;

@@ -1,13 +1,17 @@
 .offersSection{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 1vmax;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: auto;
+  padding: 1vmax;
   }
 
   .offersSection   img{
     margin: 0 1vmax;
     transition: all 0.5s;
+    padding-top: 2vmax;
 }
 
 .offersSection   img:hover{

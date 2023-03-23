@@ -1,23 +1,21 @@
 import React from 'react'
 import Carousel from 'react-bootstrap/Carousel'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import '../styles/Slider.css';
 
 
 const Slider = ({start}) => {
     return (
-        <Carousel fade>
-       
-
+        <Carousel fade >
        {start.map((item)=>(
-            <Carousel.Item>
+            <Carousel.Item >
             <img
               className="d-block w-100"
               src={item}
-              alt="First slide"
+                    alt="First slide"
             />
           </Carousel.Item>
        ))}
-       
       </Carousel>
     )
 }

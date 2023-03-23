@@ -1,8 +1,15 @@
 import React from 'react'
 import {Link} from "react-router-dom"
 import "../styles/HotAccessoriesMenu.css"
+import $ from 'jquery';
 
 const HotAccessoriesMenu = () => {
+    $(document).ready(function () {
+  
+        $(".HotAccessoriesLink").click(function (){
+          $(this).addClass("active").siblings().removeClass("active");
+        });
+      });
     return (
          <div className="HotAccessoriesMenu">
              <Link className="HotAccessoriesLink" to="/music">Music Store</Link>

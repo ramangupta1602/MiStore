@@ -1,14 +1,14 @@
 .starProduct{
-    display: flex;
+   display: flex;
    justify-content: center;
    align-items: center;
-   margin: 1vmax auto;
+   margin:  auto;
 }
 
 .starProduct>div:last-child{
     display: flex;
     flex-wrap: wrap;
-    width: 46%;
+    width: 100%;
 }
 
 .starProduct img{
