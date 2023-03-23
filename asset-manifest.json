@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mi-clone/static/css/main.a0f1be65.chunk.css",
+    "main.js": "/mi-clone/static/js/main.85184906.chunk.js",
+    "main.js.map": "/mi-clone/static/js/main.85184906.chunk.js.map",
+    "runtime-main.js": "/mi-clone/static/js/runtime-main.1963f007.js",
+    "runtime-main.js.map": "/mi-clone/static/js/runtime-main.1963f007.js.map",
+    "static/css/2.4c34b247.chunk.css": "/mi-clone/static/css/2.4c34b247.chunk.css",
+    "static/js/2.4c972e35.chunk.js": "/mi-clone/static/js/2.4c972e35.chunk.js",
+    "static/js/2.4c972e35.chunk.js.map": "/mi-clone/static/js/2.4c972e35.chunk.js.map",
+    "index.html": "/mi-clone/index.html",
+    "static/css/2.4c34b247.chunk.css.map": "/mi-clone/static/css/2.4c34b247.chunk.css.map",
+    "static/css/main.a0f1be65.chunk.css.map": "/mi-clone/static/css/main.a0f1be65.chunk.css.map",
+    "static/js/2.4c972e35.chunk.js.LICENSE.txt": "/mi-clone/static/js/2.4c972e35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1963f007.js",
+    "static/css/2.4c34b247.chunk.css",
+    "static/js/2.4c972e35.chunk.js",
+    "static/css/main.a0f1be65.chunk.css",
+    "static/js/main.85184906.chunk.js"
+  ]
+}
